@@ -1,6 +1,6 @@
 import "mocha"
 import * as assert from 'assert';
-import {Multiply} from "../../../source/ELEMENTARY/01_MULTIPLY";
+import {Multiply} from "../../01_MULTIPLY";
 import multTwo = Multiply.multTwo;
 
 describe('Multiply', () => {
